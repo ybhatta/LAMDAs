@@ -1,0 +1,122 @@
+sumOfSquares(0) is 0
+sumOfSquares(1) is 1
+sumOfSquares(2) is 5
+sumOfSquares(3) is 14
+sumOfSquares(4) is 30
+sumOfSquares(5) is 55
+sumOfSquares(6) is 91
+sumOfSquares(7) is 140
+sumOfSquares(8) is 204
+sumOfSquares(9) is 285
+sumOfSquares(10) is 385
+sumOfSquares(11) is 506
+sumOfSquares(12) is 650
+sumOfSquares(13) is 819
+sumOfSquares(14) is 1015
+sumOfSquares(15) is 1240
+pell(0) is 0
+pell(1) is 1
+pell(2) is 2
+pell(3) is 5
+pell(4) is 12
+pell(5) is 29
+pell(6) is 70
+pell(7) is 169
+pell(8) is 408
+pell(9) is 985
+pell(10) is 2378
+pell(11) is 5741
+pell(12) is 13860
+pell(13) is 33461
+pell(14) is 80782
+pell(15) is 195025
+powers(2, 1) is 3
+powers(2, 2) is 7
+powers(2, 3) is 15
+powers(2, 4) is 31
+powers(2, 5) is 63
+powers(2, 6) is 127
+powers(2, 7) is 255
+powers(2, 8) is 511
+powers(2, 9) is 1023
+powers(2, 10) is 2047
+powers(3, 1) is 8
+powers(3, 2) is 26
+powers(3, 3) is 80
+powers(3, 4) is 242
+powers(3, 5) is 728
+powers(3, 6) is 2186
+powers(3, 7) is 6560
+powers(3, 8) is 19682
+powers(3, 9) is 59048
+powers(3, 10) is 177146
+powers(4, 1) is 15
+powers(4, 2) is 63
+powers(4, 3) is 255
+powers(4, 4) is 1023
+powers(4, 5) is 4095
+powers(4, 6) is 16383
+powers(4, 7) is 65535
+powers(4, 8) is 262143
+powers(4, 9) is 1048575
+powers(4, 10) is 4194303
+powers(5, 1) is 24
+powers(5, 2) is 124
+powers(5, 3) is 624
+powers(5, 4) is 3124
+powers(5, 5) is 15624
+powers(5, 6) is 78124
+powers(5, 7) is 390624
+powers(5, 8) is 1953124
+powers(5, 9) is 9765624
+powers(5, 10) is 48828124
+powers(6, 1) is 35
+powers(6, 2) is 215
+powers(6, 3) is 1295
+powers(6, 4) is 7775
+powers(6, 5) is 46655
+powers(6, 6) is 279935
+powers(6, 7) is 1679615
+powers(6, 8) is 10077695
+powers(6, 9) is 60466175
+powers(6, 10) is 362797055
+powers(7, 1) is 48
+powers(7, 2) is 342
+powers(7, 3) is 2400
+powers(7, 4) is 16806
+powers(7, 5) is 117648
+powers(7, 6) is 823542
+powers(7, 7) is 5764800
+powers(7, 8) is 40353606
+powers(7, 9) is 282475248
+powers(7, 10) is 1977326742
+powers(8, 1) is 63
+powers(8, 2) is 511
+powers(8, 3) is 4095
+powers(8, 4) is 32767
+powers(8, 5) is 262143
+powers(8, 6) is 2097151
+powers(8, 7) is 16777215
+powers(8, 8) is 134217727
+powers(8, 9) is 1073741823
+powers(8, 10) is 8589934591
+powers(9, 1) is 80
+powers(9, 2) is 728
+powers(9, 3) is 6560
+powers(9, 4) is 59048
+powers(9, 5) is 531440
+powers(9, 6) is 4782968
+powers(9, 7) is 43046720
+powers(9, 8) is 387420488
+powers(9, 9) is 3486784400
+powers(9, 10) is 31381059608
+powers(10, 1) is 99
+powers(10, 2) is 999
+powers(10, 3) is 9999
+powers(10, 4) is 99999
+powers(10, 5) is 999999
+powers(10, 6) is 9999999
+powers(10, 7) is 99999999
+powers(10, 8) is 999999999
+powers(10, 9) is 9999999999
+powers(10, 10) is 99999999999
